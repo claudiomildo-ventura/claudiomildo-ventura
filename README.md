@@ -1,49 +1,32 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="user-content-hi--im-allan-james" class="anchor" aria-hidden="true" tabindex="-1" href="#hi--im-allan-james"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Claudiomildo Ventura</h1>
-<p dir="auto">
-</p>
-<p dir="auto">
-<p dir="auto">
-🚀 <strong>What I Deliver</strong><br>
 
-• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.<br>
-• Strong technical leadership that connects engineering excellence with strategic business outcomes.<br>
-• Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.<br><br>
+# Claudiomildo Ventura
 
-🎓 <strong>Academic Powerhouse</strong><br>
+## 🚀 What I Deliver
 
-• Postgraduate studies in <strong>Cloud Computing</strong>, <strong>Data Security</strong>, and <strong>Technology</strong>.<br>
-• <strong>MBA</strong> focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.<br><br>
+• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.  
+• Strong technical leadership that connects engineering excellence with strategic business outcomes.  
+• Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.
 
-🌍 <strong>Multilingual Capabilities</strong><br>
+## 🎓 Academic Powerhouse
 
-• Fluent in <strong>English</strong>, <strong>Spanish</strong>, and <strong>Portuguese</strong> enabling seamless communication in global, multicultural engineering environments.<br>
-</p>
-  
-<h2 dir="auto"><a id="user-content--technologies" class="anchor" aria-hidden="true" tabindex="-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠 Technologies</h2>
+• Postgraduate studies in **Cloud Computing**, **Data Security**, and **Technology**.  
+• **MBA** focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f2430b50e963615b6a3a547a56409dee769db0a48a7cd98f126dee53de8cb76/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6d642c68746d6c2c6373732c736173732c6a732c6a71756572792c74732c776f726470726573732c6e6f64656a732c7068702c676f2c7675652c72656163742c6c69742c706f7374677265732c6d7973716c2c646f636b65722c6b756265726e657465732c6669676d612c626173682c6e67696e782c7673636f6465267468656d653d6c69676874267065726c696e653d3130"></a></p>
+## 🌍 Multilingual Capabilities
 
+• Fluent in **English**, **Spanish**, and **Portuguese** enabling seamless communication in global, multicultural engineering environments.
+
+## 🛠 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=ai,java,spring,maven,kafka,git,github,githubactions,docker,kubernetes,terraform,elasticsearch,md,angular,js,ts,nodejs,postgres,mongodb,figma,webstorm,idea,azure,aws&perline=6&theme=light)](https://skillicons.dev)
-<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
-  <path d="M3.654 1.328a.678.678 0 0 1 .58-.328h2.02c.27 0 .512.164.61.41l1.02 2.547a.678.678 0 0 1-.157.707L6.07 6.654a11.72 11.72 0 0 0 5.276 5.276l1.99-1.657a.678.678 0 0 1 .708-.157l2.547 1.02c.246.098.41.34.41.61v2.02a.678.678 0 0 1-.328.58c-.885.59-2.143.97-3.6.97C8.003 16 0 7.997 0 3.6c0-1.457.38-2.715.97-3.6Z"/>
-</svg>
-<div align="left" dir="auto">
 
+## 📞 Contact
+
+<div align="left">
   <a href="mailto:claudiomildo@hotmail.com">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-      style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
-  <a href="https://www.linkedin.com/in/claudiomildo-ventura/" rel="nofollow">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      style="max-width: 100%;">
+  <a href="https://www.linkedin.com/in/claudiomildo-ventura/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
 </div>
-
-</article>
