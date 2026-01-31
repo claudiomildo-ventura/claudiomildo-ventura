@@ -1,11 +1,18 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="user-content-hi--im-allan-james" class="anchor" aria-hidden="true" tabindex="-1" href="#hi--im-allan-james"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Claudiomildo Ventura</h1>
 <p dir="auto">
 </p>
-<p dir="auto">💻 I've been working with Angular, Java, Azure and other super technologies.</p>
-<p dir="auto">🔟+ years of professional experience in software engineering.</p>
-<p dir="auto">📊 Manager of a Java engineering team.</p>
-<p dir="auto">📚 Postgraduate degree in Cloud Computing, Data Security and Technology and Master of Business Administration - MBA.</p>
-<p dir="auto">When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles 🏍️, exhausting out over running 🏃 and reading about personal development.</p>
+<p dir="auto">
+🚀 <strong>What I Deliver</strong><br><br>
+
+• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.<br>
+• Strong technical leadership that connects engineering excellence with strategic business outcomes.<br>
+• Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.<br><br>
+
+🎓 <strong>Academic Powerhouse</strong><br><br>
+
+• Postgraduate studies in <strong>Cloud Computing</strong>, <strong>Data Security</strong>, and <strong>Technology</strong>.<br>
+• <strong>MBA</strong> focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.<br>
+</p>
   
 <h2 dir="auto"><a id="user-content--technologies" class="anchor" aria-hidden="true" tabindex="-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🛠 Technologies</h2>
 
