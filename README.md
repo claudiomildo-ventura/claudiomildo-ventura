@@ -3,8 +3,8 @@
 
 ## 🚀 What I Deliver
   
-• Strong technical leadership that connects engineering excellence with strategic business outcomes.
-• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.
+• Strong technical leadership that connects engineering excellence with strategic business outcomes.  
+• Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.  
 • Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.
 
 ## 🎓 Academic Powerhouse
