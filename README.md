@@ -25,9 +25,9 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=ai,java,spring,maven,kafka,git,github,githubactions,docker,kubernetes,terraform,elasticsearch,md,angular,js,ts,nodejs,postgres,mongodb,figma,webstorm,idea,azure,aws&perline=6&theme=light)](https://skillicons.dev)
-
-<h2 dir="auto" tabindex="-1"><a id="user-content--technologies" class="anchor" aria-hidden="true" tabindex="-1" href="#-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content--technologies" tabindex="-1"></a>:telephone: Contacts</h2>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+  <path d="M3.654 1.328a.678.678 0 0 1 .58-.328h2.02c.27 0 .512.164.61.41l1.02 2.547a.678.678 0 0 1-.157.707L6.07 6.654a11.72 11.72 0 0 0 5.276 5.276l1.99-1.657a.678.678 0 0 1 .708-.157l2.547 1.02c.246.098.41.34.41.61v2.02a.678.678 0 0 1-.328.58c-.885.59-2.143.97-3.6.97C8.003 16 0 7.997 0 3.6c0-1.457.38-2.715.97-3.6Z"/>
+</svg>
 <div align="left" dir="auto">
 
   <a href="mailto:claudiomildo@hotmail.com">
