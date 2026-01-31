@@ -2,13 +2,13 @@
 <p dir="auto">
 </p>
 <p dir="auto">
-🚀 <strong>What I Deliver</strong><br><br>
+🚀 <strong>What I Deliver</strong><br>
 
 • Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.<br>
 • Strong technical leadership that connects engineering excellence with strategic business outcomes.<br>
 • Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.<br><br>
 
-🎓 <strong>Academic Powerhouse</strong><br><br>
+🎓 <strong>Academic Powerhouse</strong><br>
 
 • Postgraduate studies in <strong>Cloud Computing</strong>, <strong>Data Security</strong>, and <strong>Technology</strong>.<br>
 • <strong>MBA</strong> focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.<br>
