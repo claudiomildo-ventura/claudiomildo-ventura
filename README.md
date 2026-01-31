@@ -7,7 +7,7 @@
 • Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.  
 • Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.
 
-## 🎓 Academic Powerhouse
+## 🎓 Academic
 
 • Postgraduate studies in **Cloud Computing**, **Data Security**, and **Technology**.  
 • **MBA** focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.
