@@ -18,7 +18,7 @@
 
 ## 🛠 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ai,java,spring,maven,kafka,git,github,githubactions,docker,kubernetes,terraform,elasticsearch,md,angular,js,ts,nodejs,postgres,mongodb,figma,webstorm,idea,azure,aws&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,java&theme=light)](https://skillicons.dev)
 
 ## 📞 Contact
 
