@@ -7,20 +7,20 @@
 • Proven ability to build, scale, and empower engineering teams to achieve consistent, measurable, and high-impact results.  
 • Deep expertise in architecting robust, secure, and high‑performance systems designed for long-term scalability and maintainability.
 
-## 🎓 Academic
+## Academic
 
 • Postgraduate studies in **Cloud Computing**, **Data Security**, and **Technology**.  
 • **MBA** focused on strategic management, organizational leadership, and innovation — combining technical mastery with business strategy to drive growth and operational excellence.
 
-## 🌍 Multilingual Capabilities
+## Multilingual Capabilities
 
 • Fluent in **English**, **Spanish**, and **Portuguese** enabling seamless communication in global, multicultural engineering environments.
 
-## 🛠 Technologies
+## Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=ai,java&theme=light)](https://skillicons.dev)
 
-## 📞 Contact
+## Contact
 
 <div align="left">
   <a href="mailto:claudiomildo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
