@@ -18,7 +18,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ai,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,angular,java&theme=light)](https://skillicons.dev)
 
 ## Contact
 
